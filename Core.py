@@ -21,7 +21,7 @@ actions.add_row(["7", "Print all passwords"])
 
 
 def add_new_password(cur):
-    name = input("Name: ")
+    name = input("Login: ")
     password = input("Password (leave empty for autogen): ") # TODO Add autogen
     if password == "":
         password = autogen_pass()
