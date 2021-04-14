@@ -1,4 +1,4 @@
-# Password maneger
+# Password manager
 Symple console password maneger using MySQL Database
 
 # Installing 
